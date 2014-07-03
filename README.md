@@ -1,0 +1,4 @@
+newproject
+==========
+
+my first repository
